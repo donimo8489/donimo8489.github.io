@@ -7,6 +7,10 @@
         margin-top: -285px;*/
 }
 
+.xbox.white {
+    background: url(xbox-assets/base-white.svg);
+}
+
 .xbox.disconnected {
     background: url(xbox-assets/disconnected.svg);
 }
@@ -259,5 +263,6 @@
 }
 
 /*END Xbox One Controller Styling*/
+
 
 
